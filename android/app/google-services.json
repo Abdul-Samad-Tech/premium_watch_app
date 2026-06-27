@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966290974646",
+    "project_id": "watch-hub-bcb42",
+    "storage_bucket": "watch-hub-bcb42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966290974646:android:66d8135780c280d7914317",
+        "android_client_info": {
+          "package_name": "com.luxetime.premium_watch_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3EkpC9of1z-ztz2JWgNty3n-TTj5C-UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
