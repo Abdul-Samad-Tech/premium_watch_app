@@ -67,10 +67,10 @@ dependencies:
   # Email Service
   mailer: ^6.1.0
   
-  # AR Feature
-  model_viewer_plus: ^1.8.0
-  ar_flutter_plugin: ^0.7.3
-  file_picker: ^11.0.2
+  # AR Feature (Temporarily disabled for APK build due to namespace issue)
+  # model_viewer_plus: ^1.8.0
+  # ar_flutter_plugin: ^0.7.3
+  # file_picker: ^11.0.2
   
   # AI Chatbot
   google_generative_ai: ^0.4.6
